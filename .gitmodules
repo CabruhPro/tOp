@@ -1,0 +1,9 @@
+[submodule "css-exercises"]
+	path = css-exercises
+	url = https://github.com/CabruhPro/css-exercises.git
+[submodule "landing-page"]
+	path = landing-page
+	url = https://github.com/CabruhPro/tOp-landingpage.git
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = https://github.com/CabruhPro/javascript-exercises.git
