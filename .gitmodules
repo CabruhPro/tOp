@@ -7,3 +7,6 @@
 [submodule "javascript-exercises"]
 	path = javascript-exercises
 	url = https://github.com/CabruhPro/javascript-exercises.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/CabruhPro/etch-a-sketch.git
