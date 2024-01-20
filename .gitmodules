@@ -13,3 +13,6 @@
 [submodule "rockpaperscissors"]
 	path = rockpaperscissors
 	url = https://github.com/CabruhPro/rockpaperscissors.git
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/CabruhPro/calculator.git
